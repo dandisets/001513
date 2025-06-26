@@ -20,7 +20,7 @@
 "blobDateModified":
 "2025-06-25T17:09:46.222914Z",
 "contentSize":
-0,
+5556167894,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/eac9561b-f63c-4234-b53c-acc16a1e421a/download/",
@@ -31,7 +31,7 @@
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"48b5fa0e2c053acb066e3f5b33738126-3787--5556167894"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -83,7 +83,7 @@ null
 "path":
 "sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-Fibers_SPIM.ome.zarr",
 "size":
-0,
+5556167894,
 "zarr":
 "c4720403-6ac9-44a4-9e03-fc875f9d17c8"
 },
@@ -108,7 +108,7 @@ null
 "blobDateModified":
 "2025-06-25T17:01:17.927896Z",
 "contentSize":
-0,
+4947242272,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/f6ebede8-a9ee-47d6-b0e0-bcdcf5c4cef3/download/",
@@ -119,7 +119,7 @@ null
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"1933e6c4ccadbfa52d3e45cd935fe638-3787--4947242272"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -171,7 +171,7 @@ null
 "path":
 "sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-Nuclei_SPIM.ome.zarr",
 "size":
-0,
+4947242272,
 "zarr":
 "80c9c359-09d9-4d34-9190-a8e336edafe8"
 },
@@ -196,7 +196,7 @@ null
 "blobDateModified":
 "2025-06-25T17:01:43.830897Z",
 "contentSize":
-0,
+4780124966,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/378f8df3-d0d8-4c72-8bbb-12c626f0935e/download/",
@@ -207,7 +207,7 @@ null
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"468633ab66f5926bc8b98a399b2a3d2d-3787--4780124966"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -259,7 +259,7 @@ null
 "path":
 "sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-TyrosineHydroxylase_SPIM.ome.zarr",
 "size":
-0,
+4780124966,
 "zarr":
 "665cb9fe-1793-4bf5-ac8d-8c6d59c3c069"
 }
