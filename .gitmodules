@@ -1,0 +1,12 @@
+[submodule "sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-TyrosineHydroxylase_SPIM.ome.zarr"]
+	path = sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-TyrosineHydroxylase_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/665cb9fe-1793-4bf5-ac8d-8c6d59c3c069
+	datalad-id = 834904a0-357e-4bf0-8601-6990d01eb387
+[submodule "sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-Fibers_SPIM.ome.zarr"]
+	path = sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-Fibers_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/c4720403-6ac9-44a4-9e03-fc875f9d17c8
+	datalad-id = aedc341c-7869-4699-b418-15598f154cc9
+[submodule "sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-Nuclei_SPIM.ome.zarr"]
+	path = sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrainstemS03_stain-Nuclei_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/80c9c359-09d9-4d34-9190-a8e336edafe8
+	datalad-id = 5f28cb0a-4714-40c0-b1eb-605f42798ce5
