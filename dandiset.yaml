@@ -21,8 +21,10 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Mazzamuto, Giacomo (2025) Human Brainstem Connectome (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/001513/draft
+citation: Mazzamuto, Giacomo; Costantini, Irene; Di Meo, Danila; Perego, Laura; Bradley,
+  Samuel; Ramazzotti, Josephine; Caria, Federica Fenizi ; Sorelli, Michele; Pavone,
+  Francesco Saverio (2026) Human Brainstem Connectome (Version draft) [Data set].
+  DANDI Archive. https://dandiarchive.org/dandiset/001513/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/04x48z588
@@ -44,6 +46,39 @@ contributor:
   - dcite:ProjectMember
   - dcite:Researcher
   - dcite:Software
+  schemaKey: Person
+- identifier: 0000-0002-8464-7324
+  includeInCitation: true
+  name: Costantini, Irene
+  roleName: []
+  schemaKey: Person
+- identifier: 0000-0001-6545-0676
+  includeInCitation: true
+  name: Di Meo, Danila
+  schemaKey: Person
+- identifier: 0000-0002-5173-7606
+  includeInCitation: true
+  name: Perego, Laura
+  schemaKey: Person
+- identifier: 0009-0005-5008-6580
+  includeInCitation: true
+  name: Bradley, Samuel
+  schemaKey: Person
+- identifier: 0009-0007-0341-9607
+  includeInCitation: true
+  name: Ramazzotti, Josephine
+  schemaKey: Person
+- identifier: 0009-0000-7262-2675
+  includeInCitation: true
+  name: 'Caria, Federica Fenizi '
+  schemaKey: Person
+- identifier: 0000-0002-0546-3157
+  includeInCitation: true
+  name: Sorelli, Michele
+  schemaKey: Person
+- identifier: 0000-0002-0675-3981
+  includeInCitation: true
+  name: Pavone, Francesco Saverio
   schemaKey: Person
 dateCreated: '2025-06-25T12:45:09.345866+00:00'
 description: Human Brainstem Connectome
