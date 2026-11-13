@@ -1,0 +1,13 @@
+{
+  "Name": "Human Brainstem Connectome",
+  "BIDSVersion": "2.4.1",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Mazzamuto, G., Costantini, I., Di Meo, D., Perego, L., Bradley, S., Ramazzotti, J., Caria, F. F., Sorelli, M., & Pavone, F. S."
+  ],
+
+  "ReferencesAndLinks": [
+    "https://dandiarchive.org/dandiset/001513/draft/"
+  ]
+}

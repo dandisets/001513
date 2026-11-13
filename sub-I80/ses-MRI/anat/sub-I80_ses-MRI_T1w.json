@@ -1,0 +1,9 @@
+{
+	"MagneticFieldStrength":9.4,
+	"Manufacturer":"Bruker",
+	"PulseSequenceType":"GRE FLASH",
+	"RepetitionTimeExcitation":0.0362382,
+	"EchoTime":0.0145,
+	"FlipAngle":20,
+	"AcquisitionVoxelSize":0.08
+}
