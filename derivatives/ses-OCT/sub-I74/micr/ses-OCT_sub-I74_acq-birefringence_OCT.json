@@ -1,0 +1,9 @@
+{
+	"PixelSize": [5, 5, 300], 
+	"PixelSizeUnits": "um", 
+	"BodyPart": "BRAIN", 
+	"BodyPartDetails": "Brainstem", 
+	"Environment": "ex vivo", 
+	"SampleStaining": "None",
+	"OtherAcquisitionParameters": "Birefringence"
+}
