@@ -1,0 +1,10 @@
+{
+	"MagneticFieldStrength":9.4,
+	"Manufacturer":"Bruker",
+	"ManufacturerModelName": "BioSpin",
+	"PulseSequenceType":"3D FLASH",
+	"RepetitionTimeExcitation":0.0328788,
+	"EchoTime":0.0125,
+	"FlipAngle":24,
+	"AcquisitionVoxelSize":0.08
+}
